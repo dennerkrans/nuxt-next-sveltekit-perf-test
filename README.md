@@ -1,6 +1,8 @@
 Performance comparison of `next` and `nuxt` with minimal hello world example. These benchmarks are based on the production build of both the meta frameworks.
 
-System Information:
+Here are the visuals (— thanks to [@icarusgk](https://twitter.com/icarusgkx)):
+![total requeets](https://pbs.twimg.com/media/FxfE2dTXsAEpaJm?format=jpg&name=4096x4096)
+![avg response time](https://pbs.twimg.com/media/FxfFXOeWYAQ1UyH?format=jpg&name=4096x4096)
 
 Program used for benchmarks:
 - `oha`
